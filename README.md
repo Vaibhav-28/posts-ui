@@ -1,3 +1,9 @@
+# Posts-UI App-
+## Simple UI flow for sign in, view posts and sign-up
+1. Opening app lands a sign up page
+2. Proceeding opens a demo posts page
+3. Clicking on posts page opens up register modal which also contains link to sign in modal
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
