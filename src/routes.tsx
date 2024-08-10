@@ -1,8 +1,8 @@
-import { createBrowserRouter, Navigate } from "react-router-dom";
+import { createHashRouter, Navigate } from "react-router-dom";
 import SignIn from "./pages/SignIn";
 import Posts from "./pages/Posts";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Navigate to="sign-in" />,
