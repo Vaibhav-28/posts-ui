@@ -1,4 +1,4 @@
-# Posts-UI App-
+# Posts-UI App
 ## Simple UI flow for sign in, view posts and sign-up
 1. Opening app lands a sign up page
 2. Proceeding opens a demo posts page
